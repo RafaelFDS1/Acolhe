@@ -1,3 +1,9 @@
 [submodule "back-end"]
 	path = back-end
 	url = https://github.com/RafaelFDS1/back-end.git
+[submodule "primeiro-ano"]
+	path = primeiro-ano
+	url = https://github.com/RafaelFDS1/primeiro-ano.git
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/RafaelFDS1/front-end.git
